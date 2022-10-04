@@ -1,0 +1,71 @@
+/* content */
+
+   /* div1 */
+
+   .chunho {
+    padding-top: 60px;
+}
+
+.anhnho {
+    width: 396px;
+    height: 432px;
+
+}
+
+.anhnho.anh2 {
+    margin: 0px 25px 63px 25px;
+}
+.khoianh{
+    margin-left:132px;
+    margin-top: 115px;
+}
+
+/* div2 */
+
+.khoinho1{
+    margin-right: 232px;
+    width: 330px;
+}
+.box_chunho {
+    margin-top: 149px;
+}
+
+.khoinho2{
+    margin-top: 18px;
+    width: 398px;
+}
+.khoinho2_1{
+    margin-bottom: 48px;
+}
+.khoichu {
+    margin-top: 35px;
+}
+
+/* div3 */
+.anh4 {
+    width: 599px;
+    height: 495px;
+    margin-left: -35px;
+    margin-top: -80px;
+}
+.box3{
+    margin-top: 205px;
+}
+
+/* div4 */
+.box4_tieude {
+    font-size: 32px;
+    margin-top: 146px;
+    margin-bottom: 60px;
+}
+.box4_anh{
+    padding-left: 14px;
+}
+
+/* anh */
+.final_image img{
+    width: 100%;
+    height: 400px;
+    margin-top: 88px;
+}
+

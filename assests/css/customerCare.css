@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header{
+    margin-bottom: 0;
+}
+.divanh img{
+    width: 100%;
+}
+.divanh_text {
+    margin-top: -271px;
+    margin-bottom: 288px;
+    color: #fff;
+}
+
+.box_item {
+    margin-top: 115px;
+}
+
+h6 {
+    font-size: 20px;
+    margin-bottom: 54px;
+}
+
+.traloi {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    line-height: 2;
+}
+.traloicuoi{
+    padding-bottom: 0;
+}
+.footer{
+    margin-top: 196px;
+}
+
